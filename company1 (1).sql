@@ -64,7 +64,7 @@ foreign key(PNO)references PROJECT1(Pno)
 Table created.
 
 insert into EMPLOYEE2 values('ali01','jo','s','bangalore','m',2000000,null,null); 
-insert into EMPLOYEE2 values('ali02','ja','sm','mangalore','m',1500000,'ali01',null); 
+insert into EMPLOYEE2 values('ali02','ja','sm','mangaluru','m',1500000,'ali01',null); 
 insert into EMPLOYEE2 values('ali03','w','b','bangalore','m',1500000,'ali01',null); 
 insert into EMPLOYEE2 values('ali04','el','s','mysore','m',1500000,'ali01',null); 
 insert into EMPLOYEE2 values('ali05','p','h','mangalore','m',700000,'ali02',null); 
