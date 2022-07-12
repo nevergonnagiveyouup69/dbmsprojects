@@ -66,9 +66,9 @@ insert into BOOK_AUTHORS VALUES('b9','dc');
 insert into BOOK_AUTHORS VALUES('b6','boi');
 insert into BOOK_AUTHORS VALUES('b5','john');
 
-insert into LIBRARY_BRANCH values ('bh3','book store','mumbai');
-insert into LIBRARY_BRANCH values ('bh4','book place','mangalore');
-insert into LIBRARY_BRANCH values ('bh5','book exist','goa');
+insert into LIBRARY_BRANCH values ('bh3','book_store','mumbai');
+insert into LIBRARY_BRANCH values ('bh4','book_place','mangalore');
+insert into LIBRARY_BRANCH values ('bh5','book_exist','goa');
 
 insert into BOOK_COPIES values ('b7','bh3','44');
 insert into BOOK_COPIES values ('b7','bh4','67');
