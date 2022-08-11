@@ -62,7 +62,7 @@ Table created.
 insert into STUDENT3 values('4all3cs001','a','mangalore',4456678789,'m');
 insert into STUDENT3 values('4all3cs002','s','bangalore',7756678789,'f');
 insert into STUDENT3 values('4all3cs003','t','bangalore',8856678789,'f');
-insert into STUDENT3 values('4all3cs004','su','mangalore',9450678789,'f');
+insert into STUDENT3 values('4all3cs004','su','mangalore',94506978789,'f');
 insert into STUDENT3 values('4all4cs010','ab','bangalore',995876787,'m');
 insert into STUDENT3 values('4all4cs011','d','bangalore',445778789,'m');
 insert into STUDENT3 values('4all4cs012','as','bangalore',4776678789,'f');
